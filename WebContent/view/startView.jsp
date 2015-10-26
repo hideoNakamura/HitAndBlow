@@ -8,7 +8,7 @@
 </head>
 <h1>HitAndBlow Progamme Contest</h1>
 <body>
-	<form action="resultView.jsp">
+	<form action="../StartViewController">
 		チーム名を入力してください： <input type="text" />
 		<br />
 		<br />
