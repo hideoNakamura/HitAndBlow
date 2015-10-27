@@ -10,9 +10,4 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
 
-  <servlet>
-  	<servlet-name>StartViewController</servlet-name>
-  	<servlet-class>controller.StartViewController</servlet-class>
-  </servlet>
-
 </web-app>
